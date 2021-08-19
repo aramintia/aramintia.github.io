@@ -2,10 +2,16 @@ h2 {
   margin: 35px 25px 150px 15px;
   background-color: rgb(104, 63, 14);
   color: bisque;
-  height: 150px;
-  width: 70%;
-  padding: 10px 0 0 20px;
-  overflow: scroll;
+  width: 50%;
+  height: 15%;
+  padding: 20px 10px 0 10px;
+  border-radius: 30px 30px;
+  opacity: 65%;
+  z-index: 1;
+}
+
+img {
+  position: absolute;
 }
 
 body {
@@ -14,6 +20,6 @@ body {
   background-color: rgb(167, 151, 128);
   font-family: sans-serif;
   height: 100vh;
-  overflow: visible;
+  overflow: scroll;
   margin: 0;
 }
