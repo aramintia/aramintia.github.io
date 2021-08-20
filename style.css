@@ -1,11 +1,7 @@
 h2 {
   margin: 35px 25px 150px 15px;
-  background-color: rgb(104, 63, 14);
-  color: bisque;
+  color: rgb(104, 63, 14);
   width: 50%;
-  padding: 20% 0 0 0;
-  border-radius: 30px 30px;
-  opacity: 65%;
   z-index: 1;
 }
 
