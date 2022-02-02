@@ -1,2 +1,5 @@
 # aramintia.github.io
-Config files for my GitHub profile.
+Welcome to my initial website with some of my FAVORITE things!
+
+This is a landing page where each new skill can be explored and expanded.
+
